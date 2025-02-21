@@ -44,8 +44,6 @@ spring.datasource.password=your-password
 ```
 
 
-## 🌍 Deployment on Render
-
 ### 1️⃣ Push Code to GitHub
 Ensure your code is pushed to GitHub:
 ```sh
