@@ -31,7 +31,7 @@ Before running the project, ensure you have the following installed:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/deepraj16/cab-booking-system.git
+git clone https://github.com/deepraj16/Cab-Booking-System.git
 cd cab-booking-system
 ```
 
