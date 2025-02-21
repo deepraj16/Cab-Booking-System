@@ -43,17 +43,6 @@ spring.datasource.username=your-username
 spring.datasource.password=your-password
 ```
 
-### 3️⃣ Build and Run the Project
-Using Maven:
-```sh
-mvn clean install
-mvn spring-boot:run
-```
-Using Gradle:
-```sh
-gradle build
-java -jar build/libs/cab-booking-system.jar
-```
 
 ## 🌍 Deployment on Render
 
